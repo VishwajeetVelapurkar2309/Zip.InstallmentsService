@@ -133,7 +133,7 @@ curl --location --request GET 'https://localhost:5001/api/v1/PaymentPlan/id/b3b1
 
 ## Prerequisite To Run Code:
 1. VS 2022
-2. .Net 5 SDK
+2. .Net 6 SDK
 3.  Postman
 
  ## How to run code in VS 2022?
