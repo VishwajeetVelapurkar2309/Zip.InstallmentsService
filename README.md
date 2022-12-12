@@ -183,13 +183,13 @@ curl --location --request GET 'https://localhost:5001/api/v1/PaymentPlan/id/b3b1
 - In case of success, system will response as below.
   ![image](https://user-images.githubusercontent.com/120372002/207064997-ca147283-6034-40be-b137-58546da33594.png)
    
-## Running Unit Test Cases:
+## How to run Unit Test Cases?
 - In VS 2022, Click View --> select Test Explorer
 - System will open window as below
 ![image](https://user-images.githubusercontent.com/120372002/207065342-7abc1e95-d62b-409e-9b19-fd1508237cab.png)
 - Right click on Zip.InstallmentsService.UnitTests and select run.
 
-## Running Integration Tests:
+## How to run Integration Tests?
 - Open postman.
 - Click on import in top left hand side. It opens below pop-up window
 ![image](https://user-images.githubusercontent.com/120372002/207066427-fb2b71db-ec7f-4d5f-ad0f-e57616ebd523.png)
